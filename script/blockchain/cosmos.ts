@@ -29,6 +29,6 @@ export class CosmosAction implements ActionInterface {
                     return [errors, []];
                 }
             },
-        ];
+  ; ;     ];
     }
 }
